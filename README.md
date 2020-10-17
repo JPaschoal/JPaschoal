@@ -3,7 +3,6 @@
 # **_Hi guys, I'm Jhonatan_** 👋😁
 # **_23 years._**
 [![Linkedin Badge](https://img.shields.io/badge/-Jhonatan_Paschoal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jhonatan-paschoal/)](https://www.linkedin.com/in/jhonatan-paschoal/)
-[![Instagram Badge](https://img.shields.io/badge/-@lmrj2600-000000?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/lmrj2600/)](https://instagram.com/lmrj2600)
 
 #### Some of the technologies I have worked with
 

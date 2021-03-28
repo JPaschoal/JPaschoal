@@ -1,5 +1,3 @@
-![aa](https://media.giphy.com/media/c9IdCLK8TDv1e/giphy.gif)
-
 # **_Hi guys, I'm Jhonatan_** 👋😁
 # **_23 years._**
 [![Linkedin Badge](https://img.shields.io/badge/-Jhonatan_Paschoal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jhonatan-paschoal/)](https://www.linkedin.com/in/jhonatan-paschoal/)

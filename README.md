@@ -12,7 +12,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=React&logoColor=61DAFB)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![VSCODE](https://camo.githubusercontent.com/6e79f3bc2d49bfe1427af244bf10a9f1cef902ca/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d666666666666)
-
-![GitStat](https://github-readme-stats.vercel.app/api?username=JPaschoal&show_icons=true)

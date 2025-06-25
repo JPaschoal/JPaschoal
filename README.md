@@ -1,5 +1,4 @@
 # **_Hi guys, I'm Jhonatan_** 👋😁
-# **_27 years._**
 [![Linkedin Badge](https://img.shields.io/badge/-Jhonatan_Paschoal-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/jhonatan-paschoal/)](https://www.linkedin.com/in/jhonatan-paschoal/)
 
 #### Some of the technologies I have worked with
@@ -11,10 +10,4 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-222222?style=flat&logo=React&logoColor=61DAFB)
 ![ReactNative](https://img.shields.io/badge/-ReactNative-222222?style=flat&logo=React&logoColor=61DAFB)
-
-💹 Github Stats
-
-![Jhonatan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPaschoal&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPaschoal&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
